@@ -76,6 +76,7 @@
 #preview.text-markdown h1 {
 	font-size: 34px;
 	margin: 40px 0 20px;
+	line-height: 40px;
 }
 
 #preview.text-markdown h2 {
